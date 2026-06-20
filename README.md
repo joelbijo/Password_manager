@@ -14,7 +14,7 @@ A simple Python command-line password manager that stores website credentials in
 ## Run
 
 ```bash
-python password_manager.py
+python main.py
 ```
 
 ---
